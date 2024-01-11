@@ -2,6 +2,9 @@ This is a simple Feedback form made on Flutter and also used firebase for authen
 To run this app,
 clone the repo or download the ZIP file -> extract it -> open Android Studio -> Run: Flutter pub get on the terminal and you are good to go now.Now click on Run button or write: Flutter run on terminal.
 
+here is the drive link to my app apk. just download it
+https://drive.google.com/file/d/1zpDz7MNRuuCYUS4AmDREuyhof_VaKI6s/view?usp=sharing
+
 Here are some relevant screenshots from the app 
 https://drive.google.com/drive/folders/156kpJ0E04zkmLCoI9dzYzUIfj1WepTkD?usp=sharing
 
