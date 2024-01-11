@@ -1,16 +1,3 @@
-# feedback_abhyaz
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple Feedback form made on Flutter and also used firebase for authentication and data storage purpose
+To run this app,
+clone the repo or download the ZIP file -> extract it -> open Android Studio -> Run: Flutter pub get on the terminal and you are good to go now.Now click on Run button or write: Flutter run on terminal.
