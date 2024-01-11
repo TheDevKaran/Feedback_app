@@ -4,3 +4,6 @@ clone the repo or download the ZIP file -> extract it -> open Android Studio -> 
 
 Here are some relevant screenshots from the app 
 https://drive.google.com/drive/folders/156kpJ0E04zkmLCoI9dzYzUIfj1WepTkD?usp=sharing
+
+here is me explaining my project
+https://drive.google.com/file/d/1a4XpiOt988qdYduk2zkpqiE7EJtYjEBy/view?usp=sharing
